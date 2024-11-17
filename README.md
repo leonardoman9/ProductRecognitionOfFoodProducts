@@ -1,0 +1,1 @@
+[Visualize on NBViewer](https://nbviewer.org/github/leonardoman9/ProductRecognitionOfFoodProducts/blob/main/product_recognition_of_food_products_no_images.ipynb)
